@@ -1,1 +1,1 @@
-print(str(3) + "a")
+print(3 + "a")
