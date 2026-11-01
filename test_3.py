@@ -1,2 +1,2 @@
-int a = "str"
-print(A)
+a = "str"
+print(a)
